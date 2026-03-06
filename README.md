@@ -7,7 +7,6 @@ Email Me 👉 ✉️ **rudraomi55@gmail.com** For Collaboration/Project or Anyth
 - 🌱 **I’m currently learning:** Java and java swing
 - 👯 **I’m looking to collaborate on:** Enter your project name and info
 - 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** Enter your email here
 - 😄 **Pronouns:** Omi Rudra
 
